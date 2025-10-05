@@ -1,4 +1,4 @@
-package com.example.taskzen
+package com.sathi.taskzen
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,0 +1,21 @@
+Password : Christonet
+
+What is your first and last name?
+  [Unknown]:  Sathish Suresh
+What is the name of your organizational unit?
+  [Unknown]:  Service
+What is the name of your organization?
+  [Unknown]:  Christonet
+What is the name of your City or Locality?
+  [Unknown]:  Nagercoil
+What is the name of your State or Province?
+  [Unknown]:  Tamilnadu
+What is the two-letter country code for this unit?
+  [Unknown]:  IN
+Is CN=Sathish Suresh, OU=Service, O=Christonet, L=Nagercoil, ST=Tamilnadu, C=IN correct?
+
+
+storeFile = file("my-release-key.jks")
+            storePassword = "Christonet"
+            keyAlias = "keystore"
+            keyPassword = "Christonet"

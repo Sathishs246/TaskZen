@@ -42,7 +42,7 @@ dependencies:
   sqflite:
   flutter_staggered_animations:
   pie_chart:
-  flutter_launcher_icons: ^0.13.1
+  flutter_launcher_icons:
 
 flutter_icons:
   android: true
